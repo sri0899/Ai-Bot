@@ -1,4 +1,4 @@
-# Ai-Bot
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -152,11 +152,6 @@
       height: 600px;
       transform: translate(-30rem, -5rem); /* Change position on the page */
     }
-
-
-
-
-
   </style>
 </head>
 <body>
