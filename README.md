@@ -71,7 +71,6 @@
       animation: fadeSlideIn 2s ease-out forwards;
       opacity: 0;
     }
-    
     h1 {
       animation-delay: 1s;
       padding: 0.5rem;
@@ -80,14 +79,12 @@
       color: #0cb2e9cc;
       text-shadow: 0 0 5px #00f0ff88;
     }
-
     h2 {
       animation-delay: 0.5s;
       font-weight: 400;
       color: #ffffffcc;
       text-shadow: 0 0 5px #00f0ff88;
     }
-
     @keyframes fadeSlideIn {
       to {
         opacity: 1;
@@ -150,7 +147,6 @@
       height: 100vh;
       background-color: #f0f0f0;
     }
-
     spline-viewer {
       width: 800px;
       height: 600px;
