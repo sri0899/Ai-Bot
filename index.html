@@ -262,6 +262,13 @@
         return;
       }
 
+       if (lowerMsg.includes("hi")) || lowerMsg.includes("Hi")) || lowerMsg.includes("hii")){
+        const reply = "Hi Bro! 👋 How can I assist you today? 😊";
+        responseDiv.innerHTML = marked.parse(reply);
+        speakText();
+        return;
+      }
+
       responseDiv.innerHTML = '⏳ Loading...';
 
       try {
