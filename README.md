@@ -33,7 +33,8 @@ const apiKey = "your-openai-api-key-here";
 ⚠️ Note: Never expose your API key in public repositories. Use environment variables or backend proxies for production.
 
 📷 Screenshots
-You can add images of your chatbot interface here.
+<img width="1892" height="903" alt="image" src="https://github.com/user-attachments/assets/9bfdd630-242d-47ab-a67f-0f966b6c22aa" />
+
 
 💡 Future Improvements
 Add voice input/output
